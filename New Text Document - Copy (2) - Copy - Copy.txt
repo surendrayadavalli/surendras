@@ -1,0 +1,18 @@
+git bash
+git ui'
+git command'
+
+
+
+git bqsh
+git config username
+git config email
+git cnfig --list
+
+git bqsh
+git config username
+git config email
+git cnfig --list
+
+khatam prnds
+https://github.com/surendrayadavalli/20th_nov_session.git
